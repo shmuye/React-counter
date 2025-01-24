@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.container .count {
+.container .counter {
   color: blue;
   margin-bottom: 2em;
 }
@@ -17,6 +17,7 @@
   border-radius: .5em;
   cursor: pointer;
   color: white;
+  font-size: 1em;
 }
 
 .btns .increment {
