@@ -1,0 +1,32 @@
+.container {
+  padding: 2em;
+  max-width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.container .count {
+  color: blue;
+  margin-bottom: 2em;
+}
+
+.btns .btn {
+  padding: 1em 2em;
+  margin: 0 1em;
+  border: none;
+  border-radius: .5em;
+  cursor: pointer;
+  color: white;
+}
+
+.btns .increment {
+  background-color: green;
+}
+
+.btns .reset {
+  background-color: gray;
+}
+
+.btns .decrement {
+  background-color: red;
+}
